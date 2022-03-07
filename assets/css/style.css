@@ -36,8 +36,7 @@ main {
     width: 213px;
     height: 213px;
 
-    margin-left: auto;
-    margin-right: auto;
+    margin: 5rem auto 0;
 
     border-radius: 100%;
     border: 3px solid var(--gray);
@@ -73,7 +72,7 @@ p {
 }
 
 
-.socialLinks ul {
+.socialMediaLinks ul {
     margin-top: 1rem;
 
     list-style: none;
@@ -87,7 +86,7 @@ p {
 
 }
 
-.socialLinks li {
+.socialMediaLinks li {
     margin: 10px;
     width: 326px;
 
