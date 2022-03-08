@@ -25,6 +25,13 @@ main {
     min-width: 100vw;
 }
 
+@media (min-width: 960px) {
+    main {
+        width: auto;
+        height: auto;
+    }
+}
+
 .container {
     max-width: 250px;
     margin-left: auto;
