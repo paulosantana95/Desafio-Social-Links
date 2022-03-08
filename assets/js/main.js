@@ -16,3 +16,16 @@ function changeSocialMediaLinks() {
 }
 
 changeSocialMediaLinks();
+
+function getGithubProfileInfos() {
+    const url = `https://api.github.com/users/${linkSocialMedia.github}`;
+
+    fetch(url)
+    .then(response => response.json())
+    .then(data => {
+        userAvatar.src = data.avatar_url;
+        userName.textContent = data.name;
+    })
+}
+
+getGithubProfileInfos();
