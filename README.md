@@ -1,7 +1,5 @@
 # 💻 Sobre o desafio
 
----
-
 Neste desafio você deve criar uma página com uma lista de links que pode ser usada em perfis de redes sociais.
 
 ## Layout
@@ -12,15 +10,12 @@ Você pode duplicar o layout do projeto [clicando aqui](https://www.figma.com/fi
 
 # 🚀 **Techs**
 
----
-
 - HTML
 - CSS
 - JavaScript
 
 # 💡**Como começar?**
 
----
 
 1 - Use o link do Figma como base para o projeto. Também disponibilizamos para download todos os assets necessários (imagens e ícones), para fazer o download basta clicar no link acima.  
 
